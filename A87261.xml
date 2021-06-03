@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the town of Edinburgh, in answer to the representation and answers made against their petition for a small impost for a few years upon their flesh-mercat, for making up a stock for the better maintaining and imploying their poor in manufactories.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87261</idno><idno type="EEBO-CITATION">45504479</idno>
+  <idno type="VID">171795</idno>
+  <idno type="EEBO-PROQUEST">2240887572</idno>
+  
+            <idno type="STC">Wing I169B</idno>
+            <idno type="STC">ESTC N69653</idno>
+            <idno type="OCLC">45504479</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2591:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the town of Edinburgh, in answer to the representation and answers made against their petition for a small impost for a few years upon their flesh-mercat, for making up a stock for the better maintaining and imploying their poor in manufactories.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Public welfare --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term type="topical_term">Welfare recipients --  Employment --  Scotland --  Edinburgh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171795:1"/>
+            <head>
+               <hi>INFORMATION</hi> For the Town of <hi>Edinburgh,</hi> In <hi>Answer</hi> to the <hi>Representation</hi> and <hi>Answers</hi> made against their <hi>Petition</hi> for a small Impost for a few Years upon their <hi>Flesh-Mercat,</hi> for making up a Stock for the better Maintaining and Imploying of their Poor in Manufactories.</head>
+            <p>THe Town of <hi>Edinburgh</hi> and its Inhabitants have obviously the greatest Interest to be dissatisfied with any new Impost on their Flesh-Mercats, but the condition of their Poor being so numerous, and in effect made up for most part of such as come to <hi>Edinburgh</hi> as the Capital, from all Corners of the Nation, and all their Fonds so clearly exhausted, as that they cannot by themselves follow furth the Remedy proposed: they did (with submission) judge, that the small Imposition craved by them on their Flesh-Mercats, for a few years, in order to such a necessary and general Good, should not have met with so clamorous an opposition.</p>
+            <p>But the foresaid <hi>Representation</hi> and <hi>Answers</hi> being apparently not more in<g ref="char:EOLhyphen"/>tended to cross the Towns <hi>Petition,</hi> then to reflect upon and expose its Ad<g ref="char:EOLhyphen"/>ministration, they do the more willingly lay hold on the occasion, that the Members of the high and honourable Court of Parliament may be rightly and fully informed in this Matter.</p>
+            <p>It is then Objected, that the Town of <hi>Edinburghs</hi> Pretences of their nu<g ref="char:EOLhyphen"/>merous Poor is plainly taken off by the known Fonds that they have for their Maintainance, <hi>viz.</hi> their Collections ordinary and extraordinary, their Marriages, Baptisms and Burials, Fines and Unlaws of Delinquents, with the Neighbourly Contributions, which are reckoned to thirty or fourty thousand <hi>Merks per annum;</hi> and therefore that their Kirk-Thesaurers Books, with the Registers of their Poor, ought <hi>ante omnia</hi> to be inspected.</p>
+            <p>To which it is answered for the Town, Nothing more acceptable, seing thereby it would appear how widely both the Towns Charge of their Poor, and their Fonds for defraying of the same are mistaken, the Collections, Mar<g ref="char:EOLhyphen"/>riages, Baptisms, Burials, and about 3000 <hi>Merks</hi> yearly laid on the Neigh<g ref="char:EOLhyphen"/>bours, is all the true Fond the Town of <hi>Edinburgh</hi> hath for their Poor; but how far short this comes of the Towns Charge of Poor, shall be instanced by the last years account, which may give light to the whole.</p>
+            <p>The last years account then for the Poor, was briefly thus,
+<table>
+                  <row>
+                     <cell>Payed by <hi>Robert Hunter</hi> Kirk-Thesaurer</cell>
+                     <cell>33745</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Payed by Thesaurer <hi>Fisher</hi> the said year</cell>
+                     <cell>10228</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Payed by <hi>George Lawson</hi> Town-Thesaurer the said year</cell>
+                     <cell>7600</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Payed by Dean of Gild <hi>Macklurg</hi> the said year</cell>
+                     <cell>2400</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all</cell>
+                     <cell>53973</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table> Which evidently exceeds the double of all the Fonds that is received, and whereof the Parliament or their Committee may see most distinct &amp; satisfying Accompts when ever they think fit.</p>
+            <p>But 2. It is Objected, that the Town do multiply their poor Pensioners without necessity. To which it is answered, That indeed the Towns poor
+<pb facs="tcp:171795:2"/> Pensioners are very numerous, being no less than Thirteen or Fourteen Hun<g ref="char:EOLhyphen"/>dred, and mostly made up of Natives, but of Incomers from all parts of the Kingdom; yet it is certain, that there are none that receive either Weekly or Quarterly Pensions, except such as are visited by the Kirk-Sessions, and their Necessities attested by the Elders and Deacons of the respective Bounds; and for these Pensioners that receive their Allowance from the Town-Council, they are but very few, and their condition so notourly known as it will ea<g ref="char:EOLhyphen"/>sily be granted, that all they receive is not able to make them subsist: And all this shall be instructed by the Towns Registers and Documents, which they are most ready to exhibite.</p>
+            <p>As to what is Objected, that the Neighbourhood in the late calamitous years did contribute very liberally, which Contribution is not yet duly Compted for; Besides, that it is hoped, that that Calamity is much over. It is Answered, that the Objection as to the first part, is very Calumnious, the Con<g ref="char:EOLhyphen"/>tributions from the Nighbours being exactly compted for, in as much as every Moneth once, there was an Elder of each Paroch called with he Town Mini<g ref="char:EOLhyphen"/>sters, to see the said Contribution bestowed upon the Poor, and the Accompts thereof are ready to be produced; And as to the lessening of the late Calami<g ref="char:EOLhyphen"/>ty, the Lord grant it may lessen more and more. But upon the whole, the Town are most desirous, that the number and Condition of their Poor, with the State of their Fonds, and the great Charges they sustain, may be strictly and thorowly examined, and that the Honourable Court of Parliament may accordingly take their Measures.</p>
+            <p>It is objected in the next place, that though the Towns ordinary Fonds were not sufficient, yet no reason for this extraordinary Imposition; Because 1. The Town has a Common-good, whereof the most proper use is the re<g ref="char:EOLhyphen"/>lief of the Poor, and if this extraordinary Imposition were granted to <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> every Burgh might as justly seek the like.</p>
+            <p>To which it is answered, that for the Towns Common-good, and how the same is imployed, the Accompts are patent to all, and it is well known that the current Annualrent of the Towns Debts, with their Ministers Sti<g ref="char:EOLhyphen"/>pends, and the Towns Incidents for their publick Works, and the like stat<g ref="char:EOLhyphen"/>ed with all rational strictness, do more than exhaust the whole Common-good.</p>
+            <p>As for Preparative that may be given to other Towns. 1. Other Towns have no such confluence and multitudes of Poor. 2. They have also their own impositions, which probably do answer the necessity of the poor. And 3. It is obvious that art Imposition on Flesh-mercats would scarce be worth the collecting in any Burgh except <hi>Edinburgh,</hi> and what at present is deman<g ref="char:EOLhyphen"/>ded in <hi>Edinburgh,</hi> is really so small, that for certain it would never be inveyed or made a preparative.</p>
+            <p>It is objected, that there is a Proposal just now before the Parliament, to imploy the whole poor of the Kingdom in Labour and Manufactory, and that the Town of <hi>Edinburgh</hi> ought not to anticipat by this their extraordina<g ref="char:EOLhyphen"/>ry Demand.</p>
+            <p>To which it is answered, that the Towns extraordinary Demand doth pro<g ref="char:EOLhyphen"/>ceed upon extraordinary Reasons and Considerations, and if granted would no doubt further and facilitat the foresaid general Proposal, and therefore it cannot be thought an unseasonable Anticipation, besides that the foresaid Pro<g ref="char:EOLhyphen"/>posal needs be no hindrance to the due Examination of the grounds of the Towns Petition, and both may very well proceed together.</p>
+            <pb facs="tcp:171795:3"/>
+            <p>But 3. It is objected, that an Imposition upon the Flesh-mercats of <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> and the Suburbs, is impracticable, and of ill consequence, because Vi<g ref="char:EOLhyphen"/>vers ought to be the last things burdened with Impositions, because they highten the Mercats, which all Governments endeavour to keep low and re<g ref="char:EOLhyphen"/>gulate.</p>
+            <p>To which it is answered, that no doubt no Imposition is of it self desire<g ref="char:EOLhyphen"/>able, but where there appears a necessity for a publick Fond that cannot be more easily contrived, this necessity does still preponderat on all the like oc<g ref="char:EOLhyphen"/>casions.</p>
+            <p>And as for the particular in hand, the case of <hi>Edinburghs</hi> Poor, and of their Fonds, is now more fully represented, and the necessity being so urgent, it is humbly conceived that no Subject can bear an Imposition better than Fleshes and Vivers, wherein the poor are so little concerned, specially w ere the Impost is so small, and craved for so short a time, so that it will in effect be insensible, and very quicklye vanish; and tho some Countreys have decli<g ref="char:EOLhyphen"/>ned such Impositions, yet others have found them to be more easie.</p>
+            <p>As for what is alledged, that this Imposition will not only affect the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Edinburgh,</hi> but the whole Leidges, specially such as attend the chief Courts of the Kingdom: It is answered that the Impost is so small, and for so short a space that it is strange such an Argument should be exaggerat against it, specially when it is so obvious that the poor of <hi>Edinburgh,</hi> do indeed for the most part come from all parts of the Kingdom, and for the Apprehensi<g ref="char:EOLhyphen"/>on suggested, that this may be a preparative for burdening all other Mercats, such as of Poultrie, Grain, Fish, Leather, it is not worth the answering; seing first the Estates of Parliament are still the Masters of all such Impositi<g ref="char:EOLhyphen"/>ons. 2. That this Impost is not craved but for very weighty and evident Reasons. And 3. That it is craved upon the subject that may best and most easily bear it.</p>
+            <p>It is objected, that the <hi>Quota</hi> of the Imposition, <hi>viz.</hi> six pence upon the Ox, <hi>&amp;c.</hi> would amount to a great Sum, <hi>viz.</hi> of fifteen hundred pounds <hi>Ster<g ref="char:EOLhyphen"/>ling</hi> yearly, but to make short with this Objection, the Towns Petition fixes indeed upon five years, but all really designed is, the raising of two thousand <hi>lib. sterling</hi> for the use proposed, for which albeit the Town upon their best Information have demanded five years, yet they have withal so intirely sub<g ref="char:EOLhyphen"/>mitted the matter to the Parliament, both as to the manner of the uplifting, and the oversight of the imploying, that they are content that it be also pro<g ref="char:EOLhyphen"/>vided, that so soon as two thousand <hi>lib. sterling</hi> net shall be by them recove<g ref="char:EOLhyphen"/>red and raised by the said Imposition, it shall immediatly cease though with<g ref="char:EOLhyphen"/>in the said five years.</p>
+            <p>As for what is objected in behalf of <hi>Leith</hi> and the <hi>Cannongate,</hi> that their Mercats should not be included in the Towns Demand, the same is not cra<g ref="char:EOLhyphen"/>ved, save for this Reason, that Mercats so near should be kept in a reasonable equality; but in recompense of it, the Town is content either to take in their poor as well as their Mercats, or otherways to give such a proportion of the Imposition as the Parliament shall think fit, nor do the Town plead any thing upon the account of their Superiority, but allannerly on the account of Neighbourhood and Contingency, and that all one way or other are with<g ref="char:EOLhyphen"/>in the Towns oversight and Administration.</p>
+            <p>As for what is objected, that the Manufactory proposed, would only be to the profit and advantage of the Undertakers, the Town fairly offers,
+<pb facs="tcp:171795:4"/> that whatever net profit shall accrew by the Manufactory, it shall still be ad<g ref="char:EOLhyphen"/>ded to the increase of the Poors Stock, nor is the Suggestion worth the not<g ref="char:EOLhyphen"/>ticing, that when by this Proposal the poor are quite taken away, then the profit of all will redound to the Town and its Managers, for though this were indeed to be wished, that the poor were quite taken off, yet it may be said with ten times more assurance than was said even of the Land of <hi>Canaan,</hi> that the poor shall never be wanting out of the Town of <hi>Edinburgh.</hi>
+            </p>
+            <p>As for what else is suggested against the Towns ill Management, and that no Control can be made effectual in this case more than in others where it hath been attempted without success, these are only general and malevolent Re<g ref="char:EOLhyphen"/>flections, which cannot be better answered than by the present and late Ma<g ref="char:EOLhyphen"/>gistrats their free and frank offer, that all their Administrations be fairly exa<g ref="char:EOLhyphen"/>mined and tryed, and that for this new Fond craved, the honourable Estates of Parliament put upon them such Conjuncts for the Management and Im<g ref="char:EOLhyphen"/>ployment thereof, and with such Injunctions as they shall see cause.</p>
+            <p rend="italic">And therefore his Grace and the right honourable Estates of Parliament, are again intreated to consider the necessity and reasonableness of what the good Town demands, and how easie a Remedy is craved by this small temporary Imposition for so insupportable a Burden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
